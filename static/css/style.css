@@ -1,0 +1,11 @@
+.container {
+  background-color: lightblue;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+p {
+  background-color: lightgreen;
+}
